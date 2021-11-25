@@ -5,13 +5,13 @@
 Summary:	Python 2 and 3 ast modules with type comment support
 Summary(pl.UTF-8):	Moduły ast z Pythona 2 i 3 z obsługą komentarzy o typach
 Name:		python3-typed_ast
-Version:	1.4.2
-Release:	2
+Version:	1.5.0
+Release:	1
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/typed-ast/
 Source0:	https://files.pythonhosted.org/packages/source/t/typed-ast/typed_ast-%{version}.tar.gz
-# Source0-md5:	5aaec45a8259fd9dd13e7fe938a5565d
+# Source0-md5:	c10e924e90f70312eb0303afb5293670
 URL:		https://pypi.org/project/typed-ast/
 BuildRequires:	python3-modules >= 1:3.5
 BuildRequires:	python3-setuptools
